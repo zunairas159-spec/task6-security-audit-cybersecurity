@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# ZAP session files (can be large/contain local paths)
+*.session
+*.zap
+
+# Logs
+*.log
